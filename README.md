@@ -1,2 +1,4 @@
-# azurefunctions
-Ballerina Azure Functions Compiler Extension
+# Ballerina Azure Functions Extension
+
+Annotation based Azure Functions extension implementation for Ballerina. 
+
