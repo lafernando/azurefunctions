@@ -329,8 +329,8 @@
         <ballerina.source.directory>${project.build.directory}/../src/main/ballerina</ballerina.source.directory>
         <maven.jacoco.plugin.version>0.8.1</maven.jacoco.plugin.version>
         <jackson.version>2.10.3</jackson.version>
-        <com.fasterxml.jackson.core.annotations.version>2.9.1</com.fasterxml.jackson.core.annotations.version>
-        <com.fasterxml.jackson.dataformat.yaml.version>2.9.1</com.fasterxml.jackson.dataformat.yaml.version>
+        <com.fasterxml.jackson.core.annotations.version>2.10.3</com.fasterxml.jackson.core.annotations.version>
+        <com.fasterxml.jackson.dataformat.yaml.version>2.10.3</com.fasterxml.jackson.dataformat.yaml.version>
     </properties>
 
     <modules>
