@@ -15,7 +15,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package org.ballerinax.awslambda.test;
+package org.ballerinax.azurefunctions.test;
 
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
