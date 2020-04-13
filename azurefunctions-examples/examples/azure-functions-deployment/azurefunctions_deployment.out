@@ -1,5 +1,0 @@
-# Prerequisites: Azure CLI tools installation and configuration
-
-# Build the Ballerina program to generate the AWS Lambda functions
-$ ./ballerina build azure_functions_deployment.bal
-

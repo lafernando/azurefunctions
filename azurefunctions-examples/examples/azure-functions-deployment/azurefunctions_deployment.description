@@ -1,4 +1,0 @@
-// AWS Lambda is an event driven, serverless computing platform.
-// Ballerina functions can be deployed in AWS Lambda by annotating a
-// a Ballerina function with "@azurefunctions:Function", which should have
-// the function signature `function (azurefunctions:Context, json) returns json|error`.
